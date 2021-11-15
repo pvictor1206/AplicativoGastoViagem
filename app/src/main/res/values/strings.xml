@@ -5,4 +5,7 @@
     <string name="autonomia">Autonomia</string>
     <string name="gosto_total">Gosto Total</string>
     <string name="rs_valor">RS: 0</string>
+    <string name="preco_por_litro">Preço por Litro</string>
+    <string name="preencha_todos_campos">Preencha todos os campos!</string>
+    <string name="informe_valores_validos">Por favor, informe valores válidos</string>
 </resources>
